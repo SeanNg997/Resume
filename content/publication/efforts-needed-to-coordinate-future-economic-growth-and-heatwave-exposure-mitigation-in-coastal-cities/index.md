@@ -17,7 +17,7 @@ author_notes:
   - ""
   - CA
 doi: https://doi.org/10.1016/j.scs.2025.106177
-publication: Sustainable Cities and Society
+publication: "*Sustainable Cities and Society*"
 abstract: "The increasing frequency and severity of heatwaves present
   significant environmental and socio-economic challenges. While both rapid
   economic expansion and sluggish growth could intensify heatwave risks, current
