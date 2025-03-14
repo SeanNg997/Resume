@@ -21,25 +21,8 @@
     debug = true
 
 [[redirects]]
-  from = "http://xiaoranwu.cn/*"
+  from = "/*"
   to = "https://wuxiaoran.com/:splat"
   status = 301
   force = true
-
-[[redirects]]
-  from = "https://xiaoranwu.cn/*"
-  to = "https://wuxiaoran.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://www.xiaoranwu.cn/*"
-  to = "https://wuxiaoran.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.xiaoranwu.cn/*"
-  to = "https://wuxiaoran.com/:splat"
-  status = 301
-  force = true
+  conditions = {Host = ["xiaoranwu.cn", "www.xiaoranwu.cn"]}
