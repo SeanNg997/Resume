@@ -21,7 +21,13 @@
     debug = true
 
 [[redirects]]
-  from = "/*"
+  from = "http://xiaoranwu.cn/*"
+  to = "https://wuxiaoran.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://xiaoranwu.cn/*"
   to = "https://wuxiaoran.com/:splat"
   status = 301
   force = true
