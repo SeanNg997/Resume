@@ -9,7 +9,7 @@ authors:
   - Chaoyang Wu
   - Wei Wang
   - Yuming Wu
-  - Xiaoran Wu
+  - admin
   - Kainan Chen
   - Yanlei Ye
   - Yang Yang
