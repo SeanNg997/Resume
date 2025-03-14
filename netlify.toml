@@ -31,3 +31,15 @@
   to = "https://wuxiaoran.com/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "http://www.xiaoranwu.cn/*"
+  to = "https://wuxiaoran.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.xiaoranwu.cn/*"
+  to = "https://wuxiaoran.com/:splat"
+  status = 301
+  force = true
