@@ -48,7 +48,9 @@ sections:
                 <ul>
                     <li>National Scholarship (2024)</li>
                     <li>Outstanding Graduate of Beijing (2025)</li>
-                    <li>IGSNRR director's Scholarship (2023, 2024, 2025)</li>
+                    <li>Outstanding Graduate of UCAS (2025)</li>
+                    <li>Outstanding Graduate of IGSNRR (2025)</li>
+                    <li>IGSNRR Director's Scholarship (2023, 2024, 2025)</li>
                 </ul>
               </p>
         - title: B.S. in Geography
@@ -62,8 +64,9 @@ sections:
               <p>
                   <ul>
                       <li>National Scholarship (2020)</li>
-                      <li>Outstanding Graduates of NENU (2022)</li>
-                      <li>President's Scholarship of NENU (2019, 2021 and 2022)</li>
+                      <li>Outstanding Graduate of NENU (2022)</li>
+                      <li>NENU President's Scholarship (2019, 2021 and 2022)</li>
+                      <li>Special Prizes in the National College Students GIS Application Skills Competition (2020)</li>
                   </ul>
               </p>
     design:
