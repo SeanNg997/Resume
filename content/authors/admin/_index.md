@@ -16,7 +16,7 @@ highlight_name: true
 first_name: Xiaoran
 email: wu_xiaoran@outlook.com
 ---
-Xiaoran Wu (吴潇然) is a student at UCAS pursuing a Master's degree in Cartography and Geographic Information Systems. His research interests include global change and terrestrial ecosystems, with a focus on the application of remote sensing technology and deep learning methods in these areas.
+Hi~ I m a Ph.D. student in Ecology at Tsinghua University. My research interests include terrestrial ecosystems, climate change, and wildfires. If you are interested in my work, I welcome you to reach out and collaborate.
 {style="text-align: justify;"}
 Academic profile: [Google Scholar](https://scholar.google.com/citations?user=rcmTdYEAAAAJ&hl)
 {style="text-align: justify;"}
