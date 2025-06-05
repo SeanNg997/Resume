@@ -17,10 +17,5 @@ first_name: Xiaoran
 email: wu_xiaoran@outlook.com
 ---
 👋🏻Hi~ I m a Ph.D. student in Ecology at Tsinghua University. My research interests include terrestrial ecosystems, climate change, and wildfires. I am passionate about uncovering how forest ecosystems respond to various disturbances. If you are interested in my work, I welcome you to reach out and collaborate.
-{style="text-align: justify;"}
-Academic profile: [Google Scholar](https://scholar.google.com/citations?user=rcmTdYEAAAAJ&hl)
-{style="text-align: justify;"}
 
-{style="text-align: justify;"}
-Academic profile: [GitHub](https://github.com/SeanNg997/)
-{style="text-align: justify;"}
+Feel free to visit my [Google Scholar](https://scholar.google.com/citations?user=rcmTdYEAAAAJ&hl) and [GitHub](https://github.com/SeanNg997/) for more information.
