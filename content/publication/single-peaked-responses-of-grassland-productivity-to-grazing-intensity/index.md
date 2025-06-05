@@ -10,7 +10,7 @@ authors:
   - Siqi Deng
   - Ke Wang
   - Xuan Gao
-  - author
+  - admin
   - Dashuan Tian
   - Du Zheng
 author_notes:
