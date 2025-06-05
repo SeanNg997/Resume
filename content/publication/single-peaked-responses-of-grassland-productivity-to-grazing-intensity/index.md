@@ -10,14 +10,14 @@ authors:
   - Siqi Deng
   - Ke Wang
   - Xuan Gao
-  - Xiaoran Wu
+  - author
   - Dashuan Tian
   - Du Zheng
 author_notes:
   - ""
   - CA
 doi: 10.1016/j.agee.2025.109630
-publication: Agriculture, Ecosystems & Environment
+publication: "*Agriculture, Ecosystems & Environment*"
 abstract: How the rapidly developing livestock grazing affects grassland
   aboveground net primary productivity (ANPP) is uncertain. The grazing
   optimization hypothesis (GOH) predicts that appropriate grazing pressure
