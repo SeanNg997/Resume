@@ -1,14 +1,13 @@
 ---
 title: Xiaoran Wu
-role: Master's student
+role: PhD Candidate
 interests:
   - Terrestrial ecosystem
   - Climate change
-  - Remote sensing
-  - Deep learning
+  - Wild fire
 organizations:
-  - name: University of Chinese Academy of Sciences
-    url: https://www.ucas.ac.cn/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/
 education:
   courses: []
 superuser: true
