@@ -36,7 +36,7 @@ sections:
                     <li>Future Scholar Scholarship of THU (2024)</li>
                 </ul>
               </p>
-        - title: M.S. in Geography (expected)
+        - title: M.S. in Geography
           company: University of Chinese Academy of Sciences
           company_url: 'https://www.ucas.ac.cn/'
           company_logo: UCAS
