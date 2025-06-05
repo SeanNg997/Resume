@@ -33,7 +33,7 @@ sections:
           description: |2-
               <p>
                 <ul>
-                    <li>THU Future Scholar Scholarship (2024)</li>
+                    <li>THU Future Scholar Scholarship (2025)</li>
                 </ul>
               </p>
         - title: M.S. in Geography
