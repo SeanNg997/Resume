@@ -30,6 +30,12 @@ sections:
           location: Beijing, China
           date_start: '2025-09-01'
           date_end: '2029-06-01'
+          description: |2-
+              <p>
+                <ul>
+                    <li>Future Scholar Scholarship of THU (2024)</li>
+                </ul>
+              </p>
         - title: M.S. in Geography (expected)
           company: University of Chinese Academy of Sciences
           company_url: 'https://www.ucas.ac.cn/'
@@ -39,12 +45,10 @@ sections:
           date_end: '2025-07-20'
           description: |2-
               <p>
-                <b>Major GPA: </b>3.98/4<br>
-                <b>Academic awards:</b><br>
                 <ul>
-                    <li>National Scholarship, China (2024)</li>
-                    <li>Director's Scholarship, IGSNRR (2023, 2024)</li>
-                    <li>First Prize Scholarship, UCAS (2023, 2024)</li>
+                    <li>National Scholarship (2024)</li>
+                    <li>Outstanding Graduate of Beijing (2025)</li>
+                    <li>IGSNRR director's Scholarship (2023, 2024, 2025)</li>
                 </ul>
               </p>
         - title: B.S. in Geography
@@ -56,12 +60,10 @@ sections:
           date_end: '2022-06-17'
           description: |2-
               <p>
-                <b>Major GPA: </b>3.92/4<br>
-                <b>Academic awards:</b><br>
                   <ul>
-                      <li>National Scholarship, China (2020)</li>
-                      <li>Outstanding Graduates, NENU (2022)</li>
-                      <li>President's Scholarship, NENU (2019, 2021 and 2022)</li>
+                      <li>National Scholarship (2020)</li>
+                      <li>Outstanding Graduates of NENU (2022)</li>
+                      <li>President's Scholarship of NENU (2019, 2021 and 2022)</li>
                   </ul>
               </p>
     design:
