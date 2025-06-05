@@ -1,7 +1,7 @@
 ---
 title: Single-peaked responses of grassland productivity to grazing intensity
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Ziwei Chen
   - Dongsheng Zhao
