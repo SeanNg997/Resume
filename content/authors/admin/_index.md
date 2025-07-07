@@ -6,8 +6,8 @@ interests:
   - Climate change
   - Wild fire
 organizations:
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/
+  - name: DESS, Tsinghua University
+    url: https://www.dess.tsinghua.edu.cn/
 education:
   courses: []
 superuser: true
