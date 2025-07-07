@@ -42,7 +42,7 @@ sections:
           company_logo: UCAS
           location: Beijing, China
           date_start: '2022-09-01'
-          date_end: '2025-07-20'
+          date_end: '2025-06-01'
           description: |2-
               <p>
                 <ul>
@@ -59,7 +59,7 @@ sections:
           company_logo: NENU
           location: Changchun, China
           date_start: '2018-09-01'
-          date_end: '2022-06-17'
+          date_end: '2022-06-01'
           description: |2-
               <p>
                   <ul>
