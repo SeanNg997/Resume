@@ -16,4 +16,4 @@ highlight_name: true
 first_name: Xiaoran
 email: wu_xiaoran@outlook.com
 ---
-<font align="left">👋🏻Hi~ I am a Ph.D. candidate in Ecology from China. My research interests include terrestrial ecosystems, climate change, and wildfires. I am passionate about uncovering how forest ecosystems respond to climate change and wildfires. Feel free to visit my [Google Scholar](https://scholar.google.com/citations?user=rcmTdYEAAAAJ&hl) to learn more about my work.</font>
+<p align="left">👋🏻Hi~ I am a Ph.D. candidate in Ecology from China. My research interests include terrestrial ecosystems, climate change, and wildfires. I am passionate about uncovering how forest ecosystems respond to climate change and wildfires. Feel free to visit my <a href="https://scholar.google.com/citations?user=rcmTdYEAAAAJ&hl">Google Scholar</a> to learn more about my work.</p>
